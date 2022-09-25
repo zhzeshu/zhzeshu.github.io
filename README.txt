@@ -38,3 +38,7 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+	
+
+can directly add a subfolder and download template for the subforder, then website will be: https://zhzeshu.github.io/subfolder
+git clone https:\\...
